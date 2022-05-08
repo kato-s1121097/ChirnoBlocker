@@ -1,0 +1,6 @@
+HiScore 538,44
+HiScore	654,44
+Score 	538,85
+Score	654,85
+Player	538,153
+Player	657,162
